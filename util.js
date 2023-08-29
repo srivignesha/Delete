@@ -7,6 +7,7 @@
 //   var valueMustBeStrNumMSG = "The 'value' parameter must be of type 'String' or a 'Number'";
 //   var targetWindowExistsMSG = 'Target Window Exists';
 //   var fieldOnlyAlpaNum_MSG = "This field can only contain AlphaNumerics or Underscores as input values:  ";
+//New file added
 var orDelim = '';
 var rgDelim = '';
 var attDelim = '';
